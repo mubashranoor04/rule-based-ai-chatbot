@@ -1,36 +1,72 @@
-# DecodeLabs-AI-Internship
+# Rule-Based AI Chatbot
 
 ## Overview
 
-This repository contains all projects completed during my Artificial Intelligence Internship at DecodeLabs.
+This project is a simple Rule-Based AI Chatbot developed using Python during my Artificial Intelligence Internship at DecodeLabs.
 
-The purpose of this repository is to document my learning journey, showcase practical AI projects, and demonstrate my understanding of artificial intelligence concepts through hands-on implementation.
+The chatbot responds to user inputs using predefined rules and conditional logic. It demonstrates how basic AI systems can simulate conversation using if-else structures.
 
-## Internship Projects
+---
 
-### Project 1 - Rule-Based AI Chatbot
+## Features
 
-A Python-based chatbot that responds to predefined user inputs using rule-based decision-making logic.
+- Rule-based response system
+- Predefined input-output mapping
+- Simple conversational flow
+- Handles basic user queries
+- Beginner-friendly AI logic implementation
 
-#### Skills Learned
+---
 
-* Control Flow
-* If-Else Logic
-* Functions
-* Loops
-* User Input Handling
-* Basic Artificial Intelligence Concepts
+## How It Works
 
-### Upcoming Projects
+The chatbot uses conditional statements (if-else logic) to match user input with predefined patterns and returns appropriate responses.
+
+No machine learning model is used in this project; all responses are rule-driven.
+
+---
 
 ## Technologies Used
 
-* Python
-* Git
-* GitHub
+- Python
+- Git
+- GitHub
+
+---
+
+## Project Structure
+
+
+rule-based-ai-chatbot/
+│
+├── main.py (or chatbot.py)
+└── README.md
+
+
+---
+
+## How to Run
+
+1. Clone the repository
+2. Open terminal in project folder
+3. Run:
+
+
+python main.py
+
+
+---
+
+## Learning Outcomes
+
+- Understanding of rule-based AI systems
+- Basics of control flow in Python
+- Logic building for chatbot design
+- Hands-on experience in Python programming
+
+---
 
 ## Author
 
-Mubashra Noor
-
+Mubashra Noor  
 Computer Science Student | AI Intern
